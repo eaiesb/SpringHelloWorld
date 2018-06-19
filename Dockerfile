@@ -1,0 +1,2 @@
+from tomcat
+EXPOSE 8080 8081 9090 9091
